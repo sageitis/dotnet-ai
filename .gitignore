@@ -1,0 +1,17 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Secrets - NEVER commit these
+appsettings.*.json
+*.env
+.env*
+
+.fake
